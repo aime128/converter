@@ -1,0 +1,124 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  margin-right: 400px;
+}
+
+.main-case {
+  height: 100px;
+  width: 500px;
+  border: solid;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: rgb(88, 85, 85);
+}
+
+.first-usb {
+  height: 30px;
+  width: 90px;
+  border: solid;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: rgb(41, 40, 40);
+}
+
+.content1 {
+  height: 5px;
+  width: 50px;
+  background-color: rgb(69, 161, 207);
+  margin-top: 5px;
+  padding-right: 30px;
+  margin: 5px;
+}
+
+.second-usb {
+  height: 30px;
+  width: 90px;
+  border: solid;
+  background-color: rgb(41, 40, 40);
+}
+
+.third-usb {
+  height: 30px;
+  width: 90px;
+  border: solid;
+  background-color: rgb(41, 40, 40);
+}
+
+.type-c {
+  height: 15px;
+  width: 40px;
+  border: solid;
+  border-radius: 10px;
+  margin-bottom: 12px;
+  background-color: rgb(41, 40, 40);
+}
+
+.cord {
+  height: 30px;
+  width: 300px;
+  border: solid 1px black;
+  margin-top: 35px;
+  border-left: solid 1px black;
+  border-right: solid 1px black;
+  background-color: black;
+}
+
+.usb-jack {
+  height: 40px;
+  width: 100px;
+  border: solid 2px;
+  margin-top: 30px;
+  border-radius: 5px;
+  background-color: rgb(158, 153, 153);
+}
+
+.entry-point {
+  height: 20px;
+  width: 30px;
+  border: solid 1px;
+  margin-top: 40px;
+  background-color: silver;
+}
+
+.box {
+  align-items: center;
+}
+
+.lining {
+  height: 36px;
+  width: 5px;
+  border: solid;
+  border-radius: 2px;
+  background-color: black;
+}
+
+.content4 {
+  height: 3px;
+  width: 1px;
+  background-color: rgb(0, 0, 0);
+  margin-top: 20px;
+  padding-right: 30px;
+  margin: 4px;
+}
+
+.top-bar {
+  height: 10px;
+  width: 100px;
+  background-color: black;
+  border: solid 1px black;
+  border-top-right-radius: 20px;
+}
+
+.cord-tail {
+  height: 55px;
+  width: 50px;
+  border: solid 2px black;
+  margin-top: 20px;
+  background-color: black;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}

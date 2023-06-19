@@ -1,0 +1,59 @@
+.interface {
+  height: 480px;
+  width: 250px;
+  border: solid 10px;
+  border-radius: 8px;
+  color: rgb(46, 20, 20);
+  background-color: rgb(6, 6, 41);
+}
+
+.time-hour {
+  font-size: xxx-large;
+  color: orangered;
+  margin-left: 5px;
+}
+
+.time-minute {
+  font-size: xxx-large;
+  color: white;
+  margin-left: 5px;
+}
+
+.line-1 {
+  height: 250px;
+  border: solid 3px;
+  color: orangered;
+  width: 1px;
+  background-color: orangered;
+  border-radius: 3px;
+}
+
+/* .l1-case {
+  margin-left: 100px;
+  border: solid 1px;
+  width: 10px;
+  height: 18px;
+} */
+.structure {
+  display: flex;
+  justify-content: space-between;
+}
+.round-bottom {
+  border: solid 2px;
+  height: 50px;
+  width: 50px;
+  background-color: black;
+  border-radius: 100%;
+  margin-right: 60px;
+  /* margin-top: 280px; */
+}
+
+/* .line-2 {
+  height: 30px;
+  border: solid 5px;
+  color: orangered;
+  width: 30px;
+  background-color: black;
+  border-radius: 100%;
+} */
+

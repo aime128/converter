@@ -1,0 +1,65 @@
+.poster{
+border: solid 2px black;
+height: 600px;
+width: 600px;
+background-color: purple;
+
+}
+
+.top-section{
+    display: flex;
+    justify-content: space-between;
+    /* margin: 10%; */
+}
+
+.top-right{
+    display: flex;
+}
+
+.top-left{
+    display: flex;
+}
+
+.people{
+    margin-top: 8px;
+    font-size: smaller;
+    
+}
+.vodafone-logo{
+    border: solid 1px black;
+    height: 80px;
+    width: 100px;
+}
+
+.image{
+    width: 20px;
+    height: 20px;
+}
+
+.mid-section{
+    margin-left: 250px;
+}
+
+.submit{
+   font-size: 20px;
+   color: white;
+}
+
+.call{
+    font-size: 25px;
+    color: rgb(16, 132, 179);
+    
+}
+
+.address{
+    border: solid 2px aqua;
+    width: 250px;
+    height: 50px;
+    align-items: center;
+    color: white;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+h1{
+    color: white;
+}
