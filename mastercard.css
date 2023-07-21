@@ -1,0 +1,49 @@
+.background {
+  background-color: rgb(31, 30, 30);
+  border: solid 2px;
+  height: 300px;
+  width: 550px;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+.mastercard {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  margin-top: 25px;
+  display: flex;
+  margin-left: 15px;
+}
+.logo-name {
+  margin-right: 120px;
+}
+
+.visa-logo {
+  color: white;
+  margin-right: 50px;
+  margin-top: 15px;
+  height: 40px;
+  padding-bottom: 50px;
+}
+
+.card-number {
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+.name-exp {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+  margin-top: 60px;
+}
+
+h5 {
+  color: white;
+}
+h6 {
+  color: white;
+}
