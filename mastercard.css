@@ -1,11 +1,12 @@
 .background {
-  background-color: rgb(31, 30, 30);
+  background-color: rgb(19, 18, 18);
   border: solid 2px;
-  height: 300px;
-  width: 550px;
-  border-radius: 10px;
+  height: 220px;
+  width: 350px;
+  border-radius: 30px;
   margin-top: 50px;
   margin-left: 100px;
+  opacity: 0.9;
 }
 .mastercard {
   display: flex;
@@ -22,7 +23,7 @@
 }
 
 .visa-logo {
-  color: white;
+  color: silver;
   margin-right: 50px;
   margin-top: 15px;
   height: 40px;
@@ -30,7 +31,7 @@
 }
 
 .card-number {
-  margin-top: 50px;
+  margin-top: 20px;
   margin-left: 20px;
 }
 
@@ -38,12 +39,12 @@
   display: flex;
   justify-content: space-between;
   margin: 20px;
-  margin-top: 60px;
+  margin-top: 30px;
 }
 
 h5 {
-  color: white;
+  color: silver;
 }
 h6 {
-  color: white;
+  color: silver;
 }
