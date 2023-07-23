@@ -1,0 +1,111 @@
+.backdrop {
+  background-color: #cd5d5c;
+  width: 1000px;
+  height: 600px;
+  border: solid 2px;
+  margin: auto;
+}
+
+.handle {
+  border: solid white 10px;
+  height: 35px;
+  width: 100px;
+  border-bottom: none;
+  border-radius: 10px;
+  margin-top: 165px;
+  position: fixed;
+  margin-left: 435px;
+}
+
+.box {
+  height: 250px;
+  width: 300px;
+  margin: auto;
+  border-radius: 20px;
+  background-color: white;
+  display: flex;
+  margin-top: 200px;
+}
+
+.left-strip {
+  width: 20px;
+  height: 249px;
+  border: solid #dd143e 1px;
+  background-color: #dd143e;
+  margin-left: 35px;
+  margin-bottom: 8px;
+  position: fixed;
+}
+
+.right-strip {
+  width: 20px;
+  height: 249px;
+  border: solid #dd143e 1px;
+  background-color: #dd143e;
+  margin-bottom: 50px;
+  margin-left: 75px;
+  position: fixed;
+}
+
+.cross-y {
+  width: 13px;
+  height: 50px;
+  background-color: #dd143e;
+  margin-left: 55px;
+  margin-top: 100px;
+  position: relative;
+}
+
+.cross-x {
+  width: 50px;
+  height: 13px;
+  background-color: #dd143e;
+  margin-left: -31px;
+  margin-top: 118px;
+  position: relative;
+}
+
+.left-buckle {
+  width: 22px;
+  height: 22px;
+  border: solid #c0c0c0 7px;
+  margin-top: 50px;
+  margin-right: 15px;
+  position: relative;
+  margin-left: 28px;
+  background-color: #dd143e;
+  box-shadow: 50px;
+}
+
+.right-buckle {
+  width: 22px;
+  height: 22px;
+  border: solid #c0c0c0 7px;
+  margin-top: 50px;
+  position: fixed;
+  background-color: #dd143e;
+  margin-left: 69px;
+}
+
+.plaster {
+  width: 28px;
+  height: 80px;
+  background-color: #cd853f;
+  border-radius: 12px;
+  margin-top: 140px;
+  position: fixed;
+  margin-left: 70px;
+  rotate: 40deg;
+
+}
+
+.gauze {
+  width: 15px;
+  height: 15px;
+  background-color: #dcaa79;
+  margin: auto;
+  margin-top: 170px;
+  position: relative;
+  margin-left: 79px;
+  rotate: 40deg;
+}
