@@ -1,13 +1,5 @@
-/*--------------------------- Color variations ----------------------*/
-/* Medium Layout: 1280px */
-/* Tablet Layout: 768px */
-/* Mobile Layout: 320px */
-/* Wide Mobile Layout: 480px */
-/* =================================== */
-/*  Basic Style 
-/* =================================== */
+
 ::-moz-selection {
-  /* Code for Firefox */
   background-color: #f53f51;
   color: #fff;
 }
@@ -18,33 +10,28 @@
 }
 
 ::-webkit-input-placeholder {
-  /* WebKit, Blink, Edge */
   color: #777777;
   font-weight: 300;
 }
 
 :-moz-placeholder {
-  /* Mozilla Firefox 4 to 18 */
   color: #777777;
   opacity: 1;
   font-weight: 300;
 }
 
 ::-moz-placeholder {
-  /* Mozilla Firefox 19+ */
   color: #777777;
   opacity: 1;
   font-weight: 300;
 }
 
 :-ms-input-placeholder {
-  /* Internet Explorer 10-11 */
   color: #777777;
   font-weight: 300;
 }
 
 ::-ms-input-placeholder {
-  /* Microsoft Edge */
   color: #777777;
   font-weight: 300;
 }
@@ -103,10 +90,7 @@ a, a:focus, a:hover {
   padding: 60px;
 }
 
-/**
- *  Typography
- *
- **/
+
 .btn i, .btn-large i, .btn-floating i, .btn-large i, .btn-flat i {
   font-size: 1em;
   line-height: inherit;
@@ -164,15 +148,7 @@ td, th {
   border-radius: 0px;
 }
 
-/**
- * For modern browsers
- * 1. The space content is one way to avoid an Opera bug when the
- *    contenteditable attribute is included anywhere else in the document.
- *    Otherwise it causes space to appear at the top and bottom of elements
- *    that are clearfixed.
- * 2. The use of `table` rather than `block` is only necessary if using
- *    `:before` to contain the top-margins of child elements.
- */
+
 .clear::before, .clear::after {
   content: " ";
   display: table;
@@ -1926,10 +1902,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-/*--------------------------------------------------------------
-# Navigation Menu
---------------------------------------------------------------*/
-/* Nav Menu Essentials */
+
 .nav-menu, .nav-menu * {
   margin: 0;
   padding: 0;
@@ -1968,7 +1941,6 @@ h1, h2, h3, h4, h5, h6 {
   text-align: left;
 }
 
-/* Nav Menu Arrows */
 .sf-arrows .sf-with-ul {
   padding-right: 30px;
 }
@@ -1986,7 +1958,6 @@ h1, h2, h3, h4, h5, h6 {
   content: "\f105";
 }
 
-/* Nav Meu Container */
 #nav-menu-container {
   margin: 0;
 }
@@ -2003,7 +1974,6 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-/* Nav Meu Styling */
 .nav-menu a {
   padding: 0 8px 0px 8px;
   text-decoration: none;
@@ -2047,7 +2017,6 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
 }
 
-/* Mobile Nav Toggle */
 #mobile-nav-toggle {
   position: fixed;
   right: 15px;
@@ -2076,7 +2045,6 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-/* Mobile Nav Styling */
 #mobile-nav {
   position: fixed;
   top: 0;
@@ -2154,7 +2122,6 @@ h1, h2, h3, h4, h5, h6 {
   display: none;
 }
 
-/* Mobile Nav body classes */
 body.mobile-nav-active {
   overflow: hidden;
 }
@@ -2818,7 +2785,6 @@ h6 {
 }
 
 .single-footer-widget ::-moz-selection {
-  /* Code for Firefox */
   background-color: #191919 !important;
   color: #777777;
 }
@@ -2829,33 +2795,28 @@ h6 {
 }
 
 .single-footer-widget ::-webkit-input-placeholder {
-  /* WebKit, Blink, Edge */
   color: #777777;
   font-weight: 300;
 }
 
 .single-footer-widget :-moz-placeholder {
-  /* Mozilla Firefox 4 to 18 */
   color: #777777;
   opacity: 1;
   font-weight: 300;
 }
 
 .single-footer-widget ::-moz-placeholder {
-  /* Mozilla Firefox 19+ */
   color: #777777;
   opacity: 1;
   font-weight: 300;
 }
 
 .single-footer-widget :-ms-input-placeholder {
-  /* Internet Explorer 10-11 */
   color: #777777;
   font-weight: 300;
 }
 
 .single-footer-widget ::-ms-input-placeholder {
-  /* Microsoft Edge */
   color: #777777;
   font-weight: 300;
 }
