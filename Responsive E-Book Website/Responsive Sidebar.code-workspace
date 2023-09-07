@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "Responsive Sidebar",
+			"path": "../../../../../home/giddy/Downloads/Responsive Sidebar"
+		},
+		{
+			"name": "converter",
+			"path": ".."
+		},
+		{
+			"path": "../../../../../home/giddy/Downloads/Animated Neon Button/.vscode"
+		},
+		{
+			"path": "../../../../../home/giddy/Downloads/Product Cards with Dark-Light Mode/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "converter",
+		"liveServer.settings.port": 5501
+	}
+}
