@@ -1,0 +1,36 @@
+.backdrop{
+    width: 250px;
+    height: 550px;
+    background-color:#000b1d ;
+    border: solid 1px;
+}
+.white-bg{
+    width: 230px;
+    height: 380px;
+    background-color: #fffefd;
+    margin: auto;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+button{
+    background-color: #980000;
+    color: #fffefd;
+    align-self: center;
+    height: 30px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-left: 35px;
+}
+.yellow-bg{
+    border: solid 1px;
+    background-color: #f2d93f;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    margin-top: 20px;
+}
+.first-paragraph{
+    font-size: medium;
+    display: flex;
+    
+}
