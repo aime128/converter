@@ -72,8 +72,12 @@ img {
   margin-left: 190px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.text-1{
+  font-size: smaller;
+}
 .text-2 {
   color: #fffefd;
+  font-size: smaller;
 }
 
 .icons {
