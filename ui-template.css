@@ -99,12 +99,11 @@
   margin-top: 5px;
 }
 .drop-down {
-  border: solid 1px gray;
+  /* border: solid 1px gray; */
   width: 10px;
   height: 15px;
   color: gray;
   margin-top: 5px;
-  transform: rotate(90deg);
 }
 .top {
   display: flex;
